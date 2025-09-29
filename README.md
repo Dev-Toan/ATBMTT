@@ -54,16 +54,20 @@ g++ -o affine afine.cpp
 **Caesar Cipher:**
 
 ```
-Nhập văn bản: HELLO
+Nhập văn bản: xin chào! nguyễn đức toàn
 Nhập độ dịch chuyển: 3
-Bản mã: KHOOR
+Bản mã:  ỷĩỏảẹỉắõảảỏịũỹíỏảẽvẹảủõắỏ
+<img width="730" height="165" alt="image" src="https://github.com/user-attachments/assets/607c515c-6e3e-446d-b865-574c135ebc74" />
+
 ```
 
 **Affine Cipher (a=5, b=8):**
 
 ```
-Nhập văn bản: TEST
+Nhập văn bản: xin chào! nguyễn đức toàn
 Bản mã: ZEBW
+<img width="888" height="179" alt="image" src="https://github.com/user-attachments/assets/10acb396-c86b-47e2-b82a-85de4454e022" />
+
 ```
 
 ---
